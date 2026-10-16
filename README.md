@@ -54,25 +54,15 @@ I'm currently involved in robotics projects with **NeuralBots**, exploring compu
 
 Com a **NeuralBots**, participei da **31ª FIRA Roboworld Cup & Summit**, em Markham, Ontário (Canadá), na categoria *Autonomous Cars Challenge Physical (Pro)*. A equipe conquistou o **3º lugar** e a classificação para a etapa da **Malásia, em 2027**.
 
-<div align="center">
-
-<img src="assets/fira-2026-poster.jpg" alt="NeuralBots na FIRA 2026: troféu de 3º lugar, certificados e os dois carros autônomos" width="520">
-
-</div>
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/neuralbots-robo.jpg" alt="Carro autônomo da NeuralBots com Jetson Orin Nano" width="100%"><br>
-      <sub>Carro autônomo da NeuralBots com Jetson Orin Nano</sub>
+      <img src="assets/fira-2026-poster.jpg" alt="NeuralBots na FIRA 2026: troféu de 3º lugar, certificados e os carros autônomos" width="100%"><br>
+      <sub>Troféu, certificados e os carros da NeuralBots</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="assets/cracha-fira-mascote.jpg" alt="Crachá da FIRA 2026" width="100%"><br>
-      <sub>Crachá FIRA 2026</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/cracha-fira-participante.jpg" alt="Crachá de participante da FIRA Roboworld Cup" width="100%"><br>
-      <sub>Participante</sub>
+    <td align="center" width="50%">
+      <img src="assets/celebracao-fira-2026.jpg" alt="Daniel comemorando o 3º lugar na FIRA 2026 com a medalha" width="100%"><br>
+      <sub>Comemorando o 3º lugar na FIRA 2026</sub>
     </td>
   </tr>
 </table>
@@ -92,6 +82,19 @@ Desenvolvimento de robôs autônomos que integram software, eletrônica, visão 
 - Integração de sensores e hardware.
 - Software robótico com ROS 2.
 - Simulação e experimentação de sistemas autônomos.
+
+<table>
+  <tr>
+    <td align="center" width="58%" valign="top">
+      <img src="assets/simulacao-isaac-sim-opencv.jpg" alt="Simulação no Isaac Sim com detecção de placa e faixa de pedestres usando OpenCV" width="100%"><br>
+      <sub>Simulação no Isaac Sim: detecção de placa e faixa de pedestres com OpenCV</sub>
+    </td>
+    <td align="center" width="42%" valign="top">
+      <img src="assets/carro-pista-teste.jpg" alt="Carro autônomo da NeuralBots na pista de testes" width="100%"><br>
+      <sub>Carro autônomo na pista de testes</sub>
+    </td>
+  </tr>
+</table>
 
 🔗 [Explorar meus repositórios](https://github.com/NeuralMaker-Daniel?tab=repositories)
 
